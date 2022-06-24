@@ -1,0 +1,7 @@
+let name ="<h2> name:Taiwomiracle<br>
+let height=5.2<br>
+let country=Nigeria</h2>
+
+document.write(name)
+document.write(height)
+document.write(country)
